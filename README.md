@@ -80,14 +80,14 @@ Tenho interesse em transformar meus conhecimentos em projetos práticos e estou 
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=jose9298&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
  align="left" 
  alt="Linguagens mais utilizadas" 
  height="180" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose9298&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
 />
 
 </p>
@@ -104,6 +104,6 @@ Estou aberto a oportunidades de **estágio em tecnologia**, especialmente em ár
 
 📧 **E-mail:** josesouzatech22@gmail.com
 
-💼 **LinkedIn:** [Meu LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BiGTPFcpoSQ62dFAgJj%2FhaA%3D%3D))
+💼 **LinkedIn:** [jose-souza-silva7](https://www.linkedin.com/in/jose-souza-silva7)
 
-🐙 **GitHub:** [Meu GitHub](https://github.com/)
+🐙 **GitHub:** [jose9298](https://github.com/jose9298)
