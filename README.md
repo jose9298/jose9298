@@ -104,6 +104,6 @@ Estou aberto a oportunidades de **estágio em tecnologia**, especialmente em ár
 
 📧 **E-mail:** josesouzatech22@gmail.com
 
-💼 **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/)
+💼 **LinkedIn:** [Meu LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BiGTPFcpoSQ62dFAgJj%2FhaA%3D%3D))
 
 🐙 **GitHub:** [Meu GitHub](https://github.com/)
